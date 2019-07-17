@@ -1,7 +1,6 @@
 import xml.etree.cElementTree as ET
 import xml.sax
 import re
-from lxml import etree
 import csv
 from collections import defaultdict
 
